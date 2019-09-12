@@ -11,7 +11,7 @@ description: >-
 ![](.gitbook/assets/image%20%2890%29.png)
 
 {% hint style="info" %}
-Tenga en cuenta: También puedes acceder a _**"cerca de mi"**_ dando clic en el botón **"búsqueda avanzada"** ​![](blob:https://app.gitbook.com/92f3cc8f-3e18-41a8-aecc-6093a9bc28e4) ubicado en la parte superior derecha del mapa.
+Tenga en cuenta: También puedes acceder a _**"cerca de mi"**_ dando clic en el botón **"búsqueda avanzada"** ![](.gitbook/assets/opcioneseliminar_firebase%20%281%29.png) ​ ubicado en la parte superior derecha del mapa.
 {% endhint %}
 
 **2.Ubica un lugar en el mapa:** Puedes ubicar un lugar en el mapa de tres formas diferentes:
