@@ -11,11 +11,11 @@ description: >-
 
 **1.Ingresa a Calcular ruta:** Ubícate en la barra de búsqueda y da clic en el botón ![](.gitbook/assets/calcular-ruta.PNG) "_Calcular ruta_".
 
-![](.gitbook/assets/image%20%2887%29.png)
+![](.gitbook/assets/image%20%2892%29.png)
 
 **2.Ubica el Origen:** Puedes definir el origen dando clic en el mapa, digitando el nombre del sitio o la dirección.
 
-![](.gitbook/assets/image%20%28121%29.png)
+![](.gitbook/assets/image%20%28129%29.png)
 
 {% hint style="warning" %}
 **Tenga en cuenta:** el sistema le va a indicar la dirección o sitio oficial, por favor espere a que esta parezca, luego selecciónela dando clic.
@@ -23,7 +23,7 @@ description: >-
 
 **3.Ubica el Destino:** Puedes definir el destino dando clic en el mapa, digitando el nombre del sitio o la dirección en la caja de texto.
 
-![](.gitbook/assets/image%20%28128%29.png)
+![](.gitbook/assets/image%20%28136%29.png)
 
 {% hint style="warning" %}
 **Tenga en cuenta:** el sistema le va a indicar la dirección o sitio oficial, por favor espere a que esta parezca, luego selecciónela dando clic.
@@ -31,7 +31,7 @@ description: >-
 
 **4.Calcula la ruta:** Puedes calcular la ruta dando clic sobre uno de los medios de transporte disponibles o en el botón "calcular" \(Bicicleta predeterminado\). 
 
-![](.gitbook/assets/image%20%28231%29.png)
+![](.gitbook/assets/image%20%28244%29.png)
 
 {% hint style="info" %}
 Mapas Bogotá te ofrece los medios de transportes siguientes: caminando, bicicleta, vehículo particular y transporte público
@@ -39,7 +39,7 @@ Mapas Bogotá te ofrece los medios de transportes siguientes: caminando, bicicle
 
 **5.Calcula la ruta para otro medio de transporte:** Clic en otro medio de transporte, el sistema realiza el cálculo automático de la ruta para el medio de transporte seleccionado.
 
-![](.gitbook/assets/image%20%28179%29.png)
+![](.gitbook/assets/image%20%28190%29.png)
 
 ### Tipos de rutas para tu desplazamiento en bicicleta
 
@@ -51,7 +51,7 @@ La ruta para bicicleta te ofrece 3 \(tres\) opciones que puedes elegir teniendo 
 3. **Avanzado**: usa principalmente las vías compartidas con los demás medios de transporte.
 {% endhint %}
 
-![](.gitbook/assets/image%20%28119%29.png)
+![](.gitbook/assets/image%20%28127%29.png)
 
 * Si das clic en ![](.gitbook/assets/ver-indicaciones%20%281%29.PNG)podrás concocer cada uno de los tramos de la ruta.
 
@@ -59,11 +59,11 @@ La ruta para bicicleta te ofrece 3 \(tres\) opciones que puedes elegir teniendo 
 
 **1.Selecciona ciclo parqueaderos**: Da clic en la casilla de verificación "ciclo parqueaderos"
 
-![](.gitbook/assets/image%20%2868%29.png)
+![](.gitbook/assets/image%20%2872%29.png)
 
 **2.Visualiza:** Ubícate el mapa y da clic sobre el cicloparqueadero de tu preferencia para obtener mayor información.
 
-![](.gitbook/assets/image%20%28167%29.png)
+![](.gitbook/assets/image%20%28177%29.png)
 
 
 
@@ -71,7 +71,7 @@ La ruta para bicicleta te ofrece 3 \(tres\) opciones que puedes elegir teniendo 
 
 Da clic en el botón ![](.gitbook/assets/regorigen.PNG) "intercambiar origen/destino" , el sistema calcula nuevamente la ruta para que puedas regresar.
 
-![](.gitbook/assets/image%20%28240%29.png)
+![](.gitbook/assets/image%20%28253%29.png)
 
 
 
@@ -87,7 +87,7 @@ Conoce el estado de semáforos y accidentes de tránsito.
 
 **2.Visualiza datos:** Da clic sobre uno de los símbolos desplegados en la mapa, para visualizar la información del sitio.
 
-![](.gitbook/assets/image%20%2821%29.png)
+![](.gitbook/assets/image%20%2822%29.png)
 {% endtab %}
 
 {% tab title="Velocidad Promedio" %}
@@ -97,7 +97,7 @@ Conoce la última velocidad, velocidad promedio y fecha del último registro rep
 
 **2.Visualiza datos:** Da clic sobre una de las vías de tu interés para visualizar la velocidad promedio.
 
-![](.gitbook/assets/image%20%28221%29.png)
+![](.gitbook/assets/image%20%28233%29.png)
 {% endtab %}
 {% endtabs %}
 

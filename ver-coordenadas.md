@@ -8,11 +8,11 @@ description: >-
 
 **1.Ingresa a "Ver Coordenadas":** Selecciona en el menú el botón "Ver coordenadas".
 
-![](.gitbook/assets/image%20%28239%29.png)
+![](.gitbook/assets/image%20%28252%29.png)
 
 **2.Selecciona un sistema de coordenadas:** Da clic en la lista desplegable y elije es sistema de coordenadas que necesites.
 
-![](.gitbook/assets/image%20%28125%29.png)
+![](.gitbook/assets/image%20%28133%29.png)
 
 {% hint style="info" %}
 _**Sistemas de coordenadas disponibles:**_
@@ -28,5 +28,5 @@ _**Sistemas de coordenadas disponibles:**_
 
 **3.Lee la coordenada**: Al desplazar el mouse sobre el mapa veras la coordenada.
 
-![](.gitbook/assets/image%20%28220%29.png)
+![](.gitbook/assets/image%20%28232%29.png)
 

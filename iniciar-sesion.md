@@ -8,15 +8,15 @@ description: >-
 
 **1.Seleccione "Iniciar sesión":** Da clic en el menú principal ![](.gitbook/assets/menu_1.jpg)\(ubicado en el costado superior izquierdo de la pantalla\), luego da clic en el botón "Iniciar sesión".
 
-![](.gitbook/assets/image%20%28105%29.png)
+![](.gitbook/assets/image%20%28110%29.png)
 
 **2. Elige una cuenta:** Da clic sobre la cuenta de tu preferencia.
 
-![](.gitbook/assets/image%20%28210%29.png)
+![](.gitbook/assets/image%20%28222%29.png)
 
 **3.Regístrate:** Digita tu _correo electrónico\*_, usuario y contraseña, estos quedarán registrados junto con tu cuenta.
 
-![](.gitbook/assets/image%20%28171%29.png)
+![](.gitbook/assets/image%20%28181%29.png)
 
 {% hint style="danger" %}
 _\*Es importante que te registres con un correo electrónico institucional que nos permita conocer a qué institución perteneces._

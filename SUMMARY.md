@@ -7,6 +7,7 @@
 * [Ver datos](ver-datos/README.md)
   * [Tabla de Atributos](ver-datos/tabla-de-atributos.md)
 * [Importar](importar.md)
+* [Cerca de mi](cerca-de-mi.md)
 * [Geocodificar](geocodificar.md)
 * [Calcular Ruta](calcular-ruta.md)
 * [Medir](medir.md)

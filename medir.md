@@ -16,25 +16,25 @@ Es importante que sepas que las medidas obtenidas son aproximadas.
 {% tab title="Área" %}
 **1.Ingresa a medir:** Da clic en el Menú, luego da clic en el botón **"Medir".**
 
-![](.gitbook/assets/image%20%28162%29.png)
+![](.gitbook/assets/image%20%28172%29.png)
 
 **2.Selecciona área:** Da clic en el botón **"área"** 
 
-![&#xC1;rea](.gitbook/assets/image%20%2826%29.png)
+![&#xC1;rea](.gitbook/assets/image%20%2827%29.png)
 
 **3.Selecciona la unidad de medida:** Da clic en la lista desplegable y selecciona una unidad de medida \(Kilómetros cuadrados, acres, millas cuadradas, hectáreas, yardas cuadradas, pies cuadrados, pies cuadrados \(EEUU\), metros cuadrados\).
 
-![](.gitbook/assets/image%20%2877%29.png)
+![](.gitbook/assets/image%20%2881%29.png)
 
 **4.Mide un área:** Haz clic con el botón izquierdo en el punto de partida, traza el área y da doble clic para finalizar. El sistema te muestra los resultados del área y perímetro automáticamente, además el sistema re-calcula  los resultados al seleccionar otra medida.
 
-![](.gitbook/assets/image%20%28159%29.png)
+![](.gitbook/assets/image%20%28169%29.png)
 {% endtab %}
 
 {% tab title="Distancias" %}
 **1.Ingresa a medir**: Da clic en el Menú, luego da clic en el botón "Medir".
 
-![](.gitbook/assets/image%20%2817%29.png)
+![](.gitbook/assets/image%20%2818%29.png)
 
 **2.Selecciona distancia:** Da clic en el botón Distancia
 
@@ -42,11 +42,11 @@ Es importante que sepas que las medidas obtenidas son aproximadas.
 
 **3.Selecciona la unidad de medida:** Da clic en la lista desplegable y da clic en la unidad que necesites **\(** Millas, kilómetros, pies, pies \(EEUU\), metros, yardas, millas náuticas\).
 
-![Seleccionar unidad de medida](.gitbook/assets/image%20%2873%29.png)
+![Seleccionar unidad de medida](.gitbook/assets/image%20%2877%29.png)
 
 **4. Visualiza la medición:** Da clic izquierdo para iniciar a tomar la distancia, para finalizar debes dar doble clic. El sistema te va informando los resultados
 
-![Consulta el resultado](.gitbook/assets/image%20%28156%29.png)
+![Consulta el resultado](.gitbook/assets/image%20%28166%29.png)
 {% endtab %}
 
 {% tab title="Coordenada" %}
@@ -56,7 +56,7 @@ Es importante que sepas que las medidas obtenidas son aproximadas.
 
 **2. Selecciona coordenada:** Da clic en el botón Coordenada
 
-![](.gitbook/assets/image%20%28104%29.png)
+![](.gitbook/assets/image%20%28109%29.png)
 
 **3.Selecciona el sistema de coordenadas:** Da clic en la lista desplegable y selecciona el tipo de coordenada que necesites.
 
@@ -65,13 +65,13 @@ Es importante que sepas que las medidas obtenidas son aproximadas.
 
 **Ejemplo:** Grados
 
-![Coordenadas.](.gitbook/assets/image%20%28123%29.png)
+![Coordenadas.](.gitbook/assets/image%20%28131%29.png)
 
 **4.Visualiza la coordenada:** Desplázate en el mapa y da clic izquierdo para tomar la coordenada.
 
  **Ejemplo:** 4,645831 -74,077538  \(Estadio el Campín\)
 
-![](.gitbook/assets/image%20%2875%29.png)
+![](.gitbook/assets/image%20%2879%29.png)
 {% endtab %}
 {% endtabs %}
 

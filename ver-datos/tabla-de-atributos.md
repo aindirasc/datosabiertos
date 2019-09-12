@@ -14,7 +14,7 @@ description: >-
 
 **3.Descarga la tabla:** Selecciona un dato de la lista. Da clic en "seleccionar columnas" y elige la información exacta que vas a descargar. Al dar clic en el tipo de formato automáticamente comienza la descarga del archivo.
 
-![](../.gitbook/assets/image%20%2856%29.png)
+![](../.gitbook/assets/image%20%2859%29.png)
 
 
 
